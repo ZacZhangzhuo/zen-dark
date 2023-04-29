@@ -3,26 +3,26 @@
 <img src="https://raw.githubusercontent.com/ZacZhangzhuo/zen-dark/main/icon.png" width="140" />
 
 
-
-<!-- ![LOGO](/icon.png) -->
-
 # Zen Dark Theme
 
     by Zac Zhuo Zhang
 
-</div>
+
 
 ## Installation
 
-1. Install theme from the [Marketplace]()
-2. Go to `File > Preferences > Color Theme`
-3. Select `Zen Dark`. 
+Install theme from the [Marketplace](https://marketplace.visualstudio.com/items?itemName=ZenDark.zen-dark-z)
 
-Alternatively install via CLI:
-```
-code --install-extension miguelsolorio.min-theme
-```
+Go to `File > Preferences > Color Theme`
+
+Select `Zen Dark`. 
+
+
+## License
+
+[MIT License](LICENSE) 
 
 **Enjoy!**
 
 
+</div>
