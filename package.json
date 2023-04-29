@@ -1,0 +1,21 @@
+{
+  "name": "zen-dark",
+  "displayName": "Zen Dark",
+  "description": "This is a minimal dark zen theme for VS Code developed by Zac Zhuo Zhang",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Zen Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Zen Dark-color-theme.json"
+      }
+    ]
+  }
+}
