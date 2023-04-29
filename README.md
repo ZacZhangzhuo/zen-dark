@@ -1,8 +1,10 @@
 
 <div align="center">
-<!-- <img src="/icon.png" width="140" /> -->
+<img src="https://raw.githubusercontent.com/ZacZhangzhuo/zen-dark/main/icon.png" width="140" />
 
-![LOGO](/icon.png)
+
+
+<!-- ![LOGO](/icon.png) -->
 
 # Zen Dark Theme
 
