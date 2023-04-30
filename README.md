@@ -18,10 +18,15 @@ Go to `File > Preferences > Color Theme`
 
 Select `Zen Dark`. 
 
+Alternatively install via CLI:
+```
+code --install-extension miguelsolorio.min-theme
+```
+
 
 ## License
 
-[MIT License](LICENSE) 
+[MIT License](https://raw.githubusercontent.com/ZacZhangzhuo/zen-dark/main/LICENSE.md) 
 
 **Enjoy!**
 
