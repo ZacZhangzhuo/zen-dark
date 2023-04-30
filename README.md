@@ -2,7 +2,7 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/ZacZhangzhuo/zen-dark/main/icon.png" width="140" />
 
-
+<!-- vsce publish major, minor, patch -->
 # Zen Dark Theme
 
 
