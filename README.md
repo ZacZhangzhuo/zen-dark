@@ -5,9 +5,11 @@
 
 # Zen Dark Theme
 
-    by Zac Zhuo Zhang
 
 
+A minimal dark theme for Visual Studio Code that is easy on the eyes. Carefully designed with cold blue color style to help you both enjoy coding and focus on your code.
+
+![Zen Dark Theme](https://raw.githubusercontent.com/ZacZhangzhuo/zen-dark/main/screenshot.jpg)
 
 ## Installation
 
@@ -18,17 +20,14 @@ Go to `File > Preferences > Color Theme`
 
 Select `Zen Dark`. 
 
-Alternatively install via CLI:
-```
-code --install-extension miguelsolorio.min-theme
-```
 
 
 ## License
 
 [MIT License](https://raw.githubusercontent.com/ZacZhangzhuo/zen-dark/main/LICENSE.md) 
 
-**Enjoy!**
+    by Zac Zhuo Zhang
 
+**Enjoy!**
 
 </div>
