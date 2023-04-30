@@ -13,7 +13,7 @@ A minimal dark theme for Visual Studio Code that is easy on the eyes. Carefully 
 
 ## Installation
 
-Install theme from the [Marketplace](https://marketplace.visualstudio.com/items?itemName=ZenDark.zen-dark-z)
+Install theme from the [Marketplace](https://marketplace.visualstudio.com/items?itemName=ZacZhuoZhang.zen-dark-z)
 
 
 Go to `File > Preferences > Color Theme`

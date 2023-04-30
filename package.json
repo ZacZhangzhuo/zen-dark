@@ -3,7 +3,7 @@
 	"displayName": "Zen Dark",
 	"description": "This is a minimal dark zen theme for VS Code developed by Zac Zhuo Zhang",
 	"version": "1.0.0",
-	"publisher": "ZenDark",
+	"publisher": "ZacZhuoZhang",
 	"repository": {
 		"type": "git",
 		"url": " https://github.com/ZacZhangzhuo/zen-dark"
