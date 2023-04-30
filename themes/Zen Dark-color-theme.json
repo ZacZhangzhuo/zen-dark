@@ -1,6 +1,6 @@
 {
 	"name": "Zen Dark",
-
+// vsce publish
 	"colors": {
 		"editor.background": "#111111",
 		"editorIndentGuide.activeBackground": "#383838",
