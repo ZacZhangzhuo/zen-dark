@@ -13,6 +13,7 @@
 
 Install theme from the [Marketplace](https://marketplace.visualstudio.com/items?itemName=ZenDark.zen-dark-z)
 
+
 Go to `File > Preferences > Color Theme`
 
 Select `Zen Dark`. 

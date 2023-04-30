@@ -27,6 +27,7 @@
 		"list.highlightForeground": "#EAEAEA",
 		"list.hoverBackground": "#262626",
 		"list.hoverForeground": "#9E9E9E",
+		"statusBarItem.warningBackground": "#1a7885",
 		"list.inactiveSelectionBackground": "#212121",
 		"list.inactiveSelectionForeground": "#F5F5F5",
 		"panelTitle.activeBorder": "#090909",
