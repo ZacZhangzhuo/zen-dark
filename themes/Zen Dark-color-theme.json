@@ -50,6 +50,7 @@
 		"statusBarItem.prominentBackground": "#fafafa1a",
 		"tab.activeBorder": "#1e1e1e",
 		"tab.activeForeground": "#FAFAFA",
+		"tab.activeBackground": "#393939",
 		"tab.border": "#131313",
 		"tab.inactiveBackground": "#131313",
 		"tab.inactiveForeground": "#727272",
@@ -94,9 +95,7 @@
 		"editorBracketHighlight.foreground2": "#9b7eea",
 		"editorBracketHighlight.foreground3": "#f1e5a0",
 		"editorBracketHighlight.foreground4": "#97e791",
-		"editorBracketHighlight.foreground5": "#f092e7",
-
-		
+		"editorBracketHighlight.foreground5": "#f092e7"
 	},
 	"tokenColors": [{
 			"settings": {
