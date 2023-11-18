@@ -1,6 +1,6 @@
 {
 	"name": "Zen Dark",
-// vsce publish
+	// vsce publish
 	"colors": {
 		"editor.background": "#111111",
 		"editorIndentGuide.activeBackground": "#383838",
@@ -50,7 +50,7 @@
 		"statusBarItem.prominentBackground": "#fafafa1a",
 		"tab.activeBorder": "#1e1e1e",
 		"tab.activeForeground": "#FAFAFA",
-		"tab.activeBackground": "#393939",
+		"tab.activeBackground": "#fafafa1a",
 		"tab.border": "#131313",
 		"tab.inactiveBackground": "#131313",
 		"tab.inactiveForeground": "#727272",
@@ -95,9 +95,12 @@
 		"editorBracketHighlight.foreground2": "#9b7eea",
 		"editorBracketHighlight.foreground3": "#f1e5a0",
 		"editorBracketHighlight.foreground4": "#97e791",
-		"editorBracketHighlight.foreground5": "#f092e7"
+		"editorBracketHighlight.foreground5": "#f092e7",
+
+		"editorInlayHint.background": "#000000"
 	},
-	"tokenColors": [{
+	"tokenColors": [
+		{
 			"settings": {
 				"foreground": "#b392f0"
 			}
@@ -121,20 +124,14 @@
 			}
 		},
 		{
-			"scope": [
-				"strong",
-				"markup.heading.markdown",
-				"markup.bold.markdown"
-			],
+			"scope": ["strong", "markup.heading.markdown", "markup.bold.markdown"],
 			"settings": {
 				"fontStyle": "bold",
 				"foreground": "#16c1d9"
 			}
 		},
 		{
-			"scope": [
-				"markup.italic.markdown"
-			],
+			"scope": ["markup.italic.markdown"],
 			"settings": {
 				"fontStyle": "italic"
 			}
@@ -147,20 +144,13 @@
 			}
 		},
 		{
-			"scope": [
-				"string",
-				"markup.fenced_code",
-				"markup.inline"
-			],
+			"scope": ["string", "markup.fenced_code", "markup.inline"],
 			"settings": {
 				"foreground": "#9db1c5"
 			}
 		},
 		{
-			"scope": [
-				"comment",
-				"string.quoted.docstring.multi"
-			],
+			"scope": ["comment", "string.quoted.docstring.multi"],
 			"settings": {
 				"foreground": "#6b737c"
 			}
@@ -289,9 +279,7 @@
 		},
 		{
 			"name": "[Custom] Markdown list",
-			"scope": [
-				"beginning.punctuation.definition.list.markdown"
-			],
+			"scope": ["beginning.punctuation.definition.list.markdown"],
 			"settings": {
 				"foreground": "#16c1d9"
 			}
@@ -305,10 +293,7 @@
 		},
 		{
 			"name": "[Custom] Markdown punctuation definition brackets",
-			"scope": [
-				"punctuation.definition.string.begin.markdown",
-				"punctuation.definition.string.end.markdown"
-			],
+			"scope": ["punctuation.definition.string.begin.markdown", "punctuation.definition.string.end.markdown"],
 			"settings": {
 				"foreground": "#79b8ff"
 			}
